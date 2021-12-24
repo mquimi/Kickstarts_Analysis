@@ -7,13 +7,15 @@ All in all, Louise wants to find out the relationship, in her subcategory plays,
  The analysis was done by using different tables that allows readers to easily view and analyze.
 
 ### Analysis of Outcomes Based on Launch Date
-[Contribution guidelines for this project](resources/Outcomes_vs_Goals.png)
-
+[Pivot Table for Outcomes Based on Launch Dates](resources/PivotTable_Oucomes_Launch_Date.png)
+[Line Graph for Outcomes Based on Launch Dates](resources/Theater_Outcomes_vs_Launch_1.png)
 
 A pivot table and a line graph were used to view the outcomes based on launch date. The pivot table will help Louise spot which months had a higher number of success vs failers or canceled (if available) outcomes. If she wanted to more research based on years, Louise could simply filter by a specific year. The line graphs help Louise visualize which months might need more help based on their failure or canceled rate.
 
 
 ### Analysis of Outcomes Based on Goals
+[Line Graph for Outcomes Based on Launch Dates](resources/Outcomes_vs_Goals.png)
+
 The analysis on outcomes based on goals was interesting to see because there were no cancelations involved for the subcategory plays. Seeing this makes me want to dig deeper and see when did each of these successful or failure outcomes launch ? Was it during a specific month or different months? Aside from questions arising, the line graph that was created helps us also see that there were more successful outcomes than failed throughout the different goal ranges.
 
 ### Challenges and Difficulties Encountered
