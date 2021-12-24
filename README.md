@@ -8,6 +8,7 @@ All in all, Louise wants to find out the relationship, in her subcategory plays,
 
 ### Analysis of Outcomes Based on Launch Date
 [Pivot Table for Outcomes Based on Launch Dates](resources/PivotTable_Oucomes_Launch_Date.png)
+<br>
 [Line Graph for Outcomes Based on Launch Dates](resources/Theater_Outcomes_vs_Launch_1.png)
 
 A pivot table and a line graph were used to view the outcomes based on launch date. The pivot table will help Louise spot which months had a higher number of success vs failers or canceled (if available) outcomes. If she wanted to more research based on years, Louise could simply filter by a specific year. The line graphs help Louise visualize which months might need more help based on their failure or canceled rate.
@@ -23,17 +24,21 @@ While performing my analysis, I saw myself trying to figure out the 'what' behin
 
 I also had a challenge using the countifs function for the same range in the same column. I quickly googled and this site showed up and helped me out with the following formula too:
 
-###			[Website for countifs](https://www.ablebits.com/office-addins-blog/2014/07/10/excel-countifs-multiple-criteria/)
+-[Website for countifs](https://www.ablebits.com/office-addins-blog/2014/07/10/excel-countifs-multiple-criteria/)
 
-###			Formula I did not know could be used: 
+-Formula I did not know could be used: 
 			"(...Kickstarter!$D:$D,">=10000",Kickstarter!$D:$D,"<=14999...)"
 
 ## 3. Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+Out of all years, the month of May is where Louise had the highest succesful outcome rate. We can also conclude that overall, the outcome of successful is higher than failed for all months except December.
 
 - What can you conclude about the Outcomes based on Goals?
+What can be concluded about the outcomes based on goals is that for each goal, the percentage of successful and failed are always opposite, with the exception of a goal (15000-19999), where they meet half way.
 
 - What are some limitations of this dataset?
+A limitation that I encountered with the dataset was converting the deadline and launch dates to a readable format.
 
 - What are some other possible tables and/or graphs that we could create?
+Another table that can be introduced is the box and whiskers. This table can help Louise or anyone viewing the graph the outliers based on launch date or goals. 
