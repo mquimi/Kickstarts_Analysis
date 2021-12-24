@@ -7,6 +7,8 @@ All in all, Louise wants to find out the relationship, in her subcategory plays,
  The analysis was done by using different tables that allows readers to easily view and analyze.
 
 ### Analysis of Outcomes Based on Launch Date
+[Contribution guidelines for this project](resources/Outcomes_vs_Goals.png)
+
 
 A pivot table and a line graph were used to view the outcomes based on launch date. The pivot table will help Louise spot which months had a higher number of success vs failers or canceled (if available) outcomes. If she wanted to more research based on years, Louise could simply filter by a specific year. The line graphs help Louise visualize which months might need more help based on their failure or canceled rate.
 
